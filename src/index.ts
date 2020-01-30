@@ -1,3 +1,5 @@
 import { RequestConfig } from './type'
 
-export default (config: RequestConfig) => {}
+function Request(config: RequestConfig) {}
+
+export default Request
